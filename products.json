@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Produkt1",
+    "price": 20,
+    "description": "Przykładowy opis dla Produktu 1",
+    "quantity": 100,
+    "unit": "sztuki"
+  },
+  {
+    "id": 2,
+    "name": "Produkt2",
+    "price": 234,
+    "description": "Przykładowy opis dla Produktu 2",
+    "quantity": 50,
+    "unit": "kg"
+  },
+  {
+    "id": 3,
+    "name": "Produkt3",
+    "price": 10,
+    "description": "Przykładowy opis dla Produktu 3",
+    "quantity": 200,
+    "unit": "pudełka"
+  },
+  {
+    "id": 4,
+    "name": "Produkt4",
+    "price": 4000,
+    "description": "Przykładowy opis dla Produktu 4",
+    "quantity": 80,
+    "unit": "sztuki"
+  },
+  {
+    "id": 5,
+    "name": "Produkt5",
+    "price": 300,
+    "description": "Przykładowy opis dla Produktu 5",
+    "quantity": 120,
+    "unit": "litry"
+  }
+]
