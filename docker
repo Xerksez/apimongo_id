@@ -1,0 +1,7 @@
+docker run -d -p 27017:27017 --name mojaBazaDanych mongo
+  docker cp C:/Users/Xerks/OneDrive/Pulpit/produkty/products.json MojaBD:data/db
+w dockerze exec:
+use products
+mongosh
+snippet install mongocompat
+var dane = cat('data/db/products.json'); db.products.insertMany(JSON.parse(dane));
